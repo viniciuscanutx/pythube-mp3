@@ -3,7 +3,7 @@
 ### _Baixe suas músicas do youtube diretamente da sua área de trabalho com esse simples código._
 
 
-![Alt text](https://prnt.sc/1wv2bgo.png "Screenshot")
+![Alt text](/relative/path/to/Screenshot_1.png?raw=true "Optional Title")
 
 
 ## Bibliotecas Usadas:
